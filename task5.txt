@@ -1,0 +1,2 @@
+The URL for the site is: localhost:3000
+More steps on installing the app can be found in task3's README.
